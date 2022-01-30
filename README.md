@@ -1,6 +1,6 @@
 # TRINIT_team-Ackermans_DEV02
 The project is built with React.
-Our project pdf link : https://docs.google.com/document/d/1wCYo7P934uhh0VkTqECET6yU731AMs7TFsKuaxXaQWA/edit
+Our project pdf link : https://docs.google.com/document/d/1wCYo7P934uhh0VkTqECET6yU731AMs7TFsKuaxXaQWA/edit?usp=sharing
 Our backend pdf link : https://docs.google.com/document/d/1KASpmC2fUNteWb5uUE_SSVgKLcBD6-itwL8IUfPor3o/edit?usp=sharing
 The screen shots are attached in the pdfs.
 Our Hosted Website Link(Website is hosted without the backend): https://epic-pasteur-d942e9.netlify.app/
